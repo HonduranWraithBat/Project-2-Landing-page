@@ -1,0 +1,89 @@
+/* Google Font */
+@import
+  url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+body {
+  font-family: 'Poppins', san-serif;
+  margin: 0;
+  background: #f5f5f5;
+  color: #333;
+}
+
+/* Header */
+#page-header {
+  text-align: center;
+  padding: 40px 20px;
+  background: linear-gradient(to right, #ff7e5f. #feb47b);
+  color: Red;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Layout */
+#main-content {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+/* Card sections */
+.card {
+  background: white;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Headings */
+.section-heading {
+  color: #ff7e5f;
+}
+
+/* Text */
+.text-block {
+  line-height: 1.6;
+}
+
+/* List */
+.ingredient-list,
+.instruction-list {
+  padding-left: 20px;
+}
+
+.ingredient-item,
+.step-item {
+  margin: 5px 0;
+}
+
+/* Images */
+.recipe-image {
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+/* Footer */
+#page-footer{
+  text-align: center;
+  padding: 30px;
+  background: #333;
+  color: white;
+}
+
+.recipe-link {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #ff7e5f;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.recipe-link: hover {
+  background: #e0664f;
+}

@@ -1,0 +1,81 @@
+<header id="page-header">
+  <h1 class="title">Mexican Garlic Shrimp</h1>
+  <p class="subtitle">A flavorful, easy seafood recipe you'll learn and love.</p>
+</header>
+
+<main id="main-content">
+  
+  <section id="intro" class="card">
+    <h2 class="section-heading">About This Recipe</h2>
+    
+    <p class="text-block">
+      This Mexican garlic shrimp is packed with bold flavor, combining garlic, lime, and spices for a quick and delicious meal.
+    </p>
+    
+    <p class="text-block">
+      Inspired by home cooking, this recipe is simple, affordable, and perfect for beginners.
+    </p>
+    
+    <img class="recipe-image"
+         
+         src="https://images.unsplash.com/photo-1625944233021-7a6c0b8f359a"
+         alt="mexican garlic shrimp served in a skillet">
+  </section>
+  
+  <section id="ingredients" class="card">
+    <h2 class="section-heading">Ingredients</h2>
+    
+    <ul class="ingredient-list">
+      <li class="ingredient-item">1 lb shrimp</li>
+      <li class="ingredient-item">3 garlic cloves</li>
+      <li class="ingredient-item">2 tbsp olive oil</li>
+      <li class="ingredient-item">1 lime</li>
+      <li class="ingredient-item">Salt & pepper</li>
+      <li class="ingredient-item">Cilantro</li>
+    </ul>
+    
+    <img class="recipe-image"
+         
+         src="https://images.unsplash.com/photo-1604908177522-402c6d0f5c4b"
+         alt="Shrimp and ingredients">
+  </section>
+  
+  <section id="instructions" class="card">
+    <h2 class="section-heading">Instructions</h2>
+    
+    <ol class="instruction-list">
+      <li class="step-item">Heat oil in pan at medium heat</li>
+      <li class="step-item">Cook minced garlic</li>
+      <li class="step-item">Add shrimp</li>
+      <li class="step-item">Add lime + seasoning</li>
+      <li class="step-item">mix and cook for 12 minutes</li>
+      <li class="step-item"> Garnish and serve</li>
+    </ol>
+    
+    <img class="recipe-image"
+         
+         src="https://images.unsplash.com/photo-1559847844-5315695dadae"
+         alt="Shrimp cooking in pan">
+  </section>
+  
+  <section id="gallery" class="card">
+    <h2 class="section-heading">Finished Dish</h2>
+    
+    <p class="text-block">
+      Serve with rice or tortillas for a complete meal.
+    </p>
+    
+    <img class="recipe-image"
+         
+         src="https://images.unsplash.com/photo-1544025162-d76694265947"
+         alt="Finished shrimp dish">
+  </section>
+  
+</main>
+
+<footer id="page-footer">
+  <h3>Try it Yourself!</h3>
+  <a class="recipe-link" href="https://www.allrecipes.com">
+    View MORE Recipes
+  </a>
+</footer>
